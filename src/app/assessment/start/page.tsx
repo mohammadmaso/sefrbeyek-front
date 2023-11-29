@@ -1,9 +1,11 @@
+'use client';
 import React from 'react';
 import { Model } from 'survey-core';
 import { Survey } from 'survey-react-ui';
 import { json } from '../survey';
 import 'survey-core/defaultV2.min.css';
 import { themeJson } from './theme';
+import MainLayout from '@/layout/MainLayout';
 
 const SurveyComponent = () => {
   const survey = new Model(json);
@@ -15,7 +17,11 @@ const SurveyComponent = () => {
     'nps-score': 9,
     'promoter-features': ['performance', 'ui'],
   };
-  return <Survey model={survey} />;
+  return (
+    <MainLayout activeTab={'/assessment'}>
+      <Survey model={survey} />
+    </MainLayout>
+  );
 };
 
 export default SurveyComponent;
