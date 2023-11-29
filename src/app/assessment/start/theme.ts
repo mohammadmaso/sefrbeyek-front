@@ -9,6 +9,7 @@ export const themeJson = {
         "--sjs-general-forecolor-light": "rgba(133, 154, 186, 1)",
         "--sjs-general-dim-forecolor": "rgba(0, 0, 0, 0.91)",
         "--sjs-general-dim-forecolor-light": "rgba(133, 154, 186, 1)",
+        
         "--sjs-primary-backcolor": "rgba(35, 101, 200, 1)",
         "--sjs-primary-backcolor-light": "rgba(35, 101, 200, 0.1)",
         "--sjs-primary-backcolor-dark": "rgba(26, 86, 175, 1)",
