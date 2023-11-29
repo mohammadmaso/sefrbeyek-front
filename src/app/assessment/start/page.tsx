@@ -6,7 +6,7 @@ import { json } from '../survey';
 import 'survey-core/defaultV2.min.css';
 import { themeJson } from './theme';
 import MainLayout from '@/layout/MainLayout';
-
+import './index.css';
 const SurveyComponent = () => {
   const survey = new Model(json);
   survey.onComplete.add((sender: any, options: any) => {
@@ -19,7 +19,7 @@ const SurveyComponent = () => {
   };
   return (
     <MainLayout activeTab={'/assessment'}>
-      <Survey model={survey} />
+      <Survey style={{ fontFamily: 'Alibaba' }} model={survey} />
     </MainLayout>
   );
 };
