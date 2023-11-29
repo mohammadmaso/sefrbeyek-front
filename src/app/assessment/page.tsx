@@ -6,6 +6,7 @@ import { info } from 'console';
 import router from 'next/router';
 import React from 'react';
 import { RadarChartOutlined } from '@ant-design/icons';
+import Link from 'next/link';
 
 type Props = {};
 
@@ -16,9 +17,11 @@ const page = (props: Props) => {
         <Flex vertical justify="end" style={{ width: '100%', minHeight: '400px', background: "url('https://mindlerimages.imgix.net/tinyimg/class8.svg') right 0px bottom 0px no-repeat;" }}>
           <Flex style={{ padding: '3rem' }} vertical justify="end">
             <h1>مسیر شغلی‌ خودت رو آگاهانه پیدا کن...</h1>
-            <Button size="large" shape="round" block={false} type="primary">
-              شروع آزمون
-            </Button>
+            <Link href={'/assessment/start'}>
+              <Button size="large" shape="round" block={false} type="primary">
+                شروع آزمون
+              </Button>
+            </Link>
           </Flex>
         </Flex>
         <Flex justify="center" style={{ backgroundColor: '#2589cc30' }}>
