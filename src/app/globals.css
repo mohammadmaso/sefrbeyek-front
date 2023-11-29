@@ -19,7 +19,9 @@
   font-weight: normal;
   font-style: normal;
 }
-.sv-string-viewer{
+.sv-string-viewer {
   font-family: 'Alibaba' !important;
-  
+}
+.sd-btn{
+    font-family: 'Alibaba' !important;
 }

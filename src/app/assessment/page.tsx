@@ -1,4 +1,4 @@
-'use-client';
+'use client';
 import MainLayout from '@/layout/MainLayout';
 import { List, Card, Flex, Typography, Button } from 'antd';
 import Meta from 'antd/es/card/Meta';
@@ -14,7 +14,7 @@ const page = (props: Props) => {
   return (
     <>
       <MainLayout activeTab="/assessment">
-        <Flex vertical justify="end" style={{ width: '100%', minHeight: '400px', background: "url('https://mindlerimages.imgix.net/tinyimg/class8.svg') right 0px bottom 0px no-repeat;" }}>
+        <Flex vertical justify="start" align="end" style={{ width: '100%', minHeight: '400px', background: "url('https://mindlerimages.imgix.net/tinyimg/class8.svg') right 0px bottom 0px no-repeat;" }}>
           <Flex style={{ padding: '3rem' }} vertical justify="end">
             <h1>مسیر شغلی‌ خودت رو آگاهانه پیدا کن...</h1>
             <Link href={'/assessment/start'}>

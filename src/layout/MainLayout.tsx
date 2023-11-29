@@ -79,7 +79,7 @@ const App = ({ children, activeTab }: any) => {
           >
             <Menu theme="light" mode="inline" style={{ minHeight: '100vh' }} defaultSelectedKeys={[activeTab]} items={items} onSelect={(info) => router.push(info.key)} />
           </Sider>
-          <Content style={{ margin: 10 }}>{children}</Content>
+          <Content>{children}</Content>
         </Layout>
         <Footer style={{ textAlign: 'center', background: 'transparent' }}>تمامی حقوق برای آکادمی صفر به یک محفوظ است.</Footer>
       </Layout>
