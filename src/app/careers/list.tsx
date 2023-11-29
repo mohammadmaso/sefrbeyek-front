@@ -7,7 +7,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '1.Engineering-Cover.png',
-      career_domain_name: 'Engineering',
+      career_domain_name: 'مهندسی',
       isDraft: 0,
       tagline: 'Engineering',
       description:
@@ -22,7 +22,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '2.Computer-Applications-Cover.png',
-      career_domain_name: 'Computer Application & IT',
+      career_domain_name: 'برنامه‌های کامپیوتری و و فناوری اطلاعات',
       isDraft: 0,
       tagline: 'Computer-Application-IT',
       description:
@@ -37,7 +37,7 @@ export const careers_category = [
     _ignored: ['career_details.eligibility.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '3.Ethical-Hacking-Cover.png',
-      career_domain_name: 'Ethical Hacking',
+      career_domain_name: 'هک اخلاقی',
       isDraft: 0,
       tagline: 'Ethical-Hacking',
       description:
@@ -52,7 +52,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_abroad_colleges.course.keyword', 'career_details.eligibility.keyword', 'career_details.careers_path.Path_1.description.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '4.Aviation-Cover.png',
-      career_domain_name: 'Aviation',
+      career_domain_name: 'هوانوردی',
       isDraft: 0,
       tagline: 'Aviation',
       description:
@@ -67,7 +67,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '5.Architecture-Cover.png',
-      career_domain_name: 'Architecture',
+      career_domain_name: 'معماری',
       isDraft: 0,
       tagline: 'Architecture',
       description:
@@ -82,7 +82,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '6.Merchant-Navy-Cover.png',
-      career_domain_name: 'Merchant Navy',
+      career_domain_name: 'نیروی دریایی بازرگانی',
       isDraft: 0,
       tagline: 'Merchant-Navy',
       description:
@@ -97,7 +97,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '7.Food-Agriculture-Cover.png',
-      career_domain_name: 'Food & Agriculture',
+      career_domain_name: 'غذا و کشاورزی',
       isDraft: 0,
       tagline: 'Food-Agriculture',
       description:
@@ -112,7 +112,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '8.Physical-Science-Cover.png',
-      career_domain_name: 'Physical Science',
+      career_domain_name: 'علوم فیزیکی',
       isDraft: 0,
       tagline: 'Physical-Science',
       description:
@@ -127,7 +127,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.career_colleges.course.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '9.Life-Science-Cover.png',
-      career_domain_name: 'Life Science & Environment',
+      career_domain_name: 'علوم زیستی و محیط زیست',
       isDraft: 0,
       tagline: 'Life-Science-Environment',
       description:
@@ -142,7 +142,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '10.Maths-Statistics-Cover.png',
-      career_domain_name: 'Maths & Statistics',
+      career_domain_name: 'ریاضیات و امار',
       isDraft: 0,
       tagline: 'Maths-Statistics',
       description:
@@ -157,7 +157,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '11.Medicine-Cover.png',
-      career_domain_name: 'Medicine',
+      career_domain_name: 'پزشکی',
       isDraft: 0,
       tagline: 'Medicine',
       description:
@@ -172,7 +172,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '12.Allied-Medicine-Cover.png',
-      career_domain_name: 'Allied Medicine',
+      career_domain_name: 'پیراپزشکی',
       isDraft: 0,
       tagline: 'Allied-Medicine',
       description:
@@ -187,7 +187,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '13.Nutrition-Fitness-Cover.png',
-      career_domain_name: 'Nutrition & Fitness',
+      career_domain_name: 'تغذیه و تناسب‌اندام',
       isDraft: 0,
       tagline: 'Nutrition-Fitness',
       description:
@@ -202,7 +202,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '14.Design-Cover.png',
-      career_domain_name: 'Design',
+      career_domain_name: 'طراحی',
       isDraft: 0,
       tagline: 'Design',
       description:
@@ -217,7 +217,7 @@ export const careers_category = [
     _ignored: ['career_details.eligibility.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '15.Animation-Graphics-Cover.png',
-      career_domain_name: 'Animation & Graphics',
+      career_domain_name: 'انیمیشن و گرافیک',
       isDraft: 0,
       tagline: 'Animation-Graphics',
       description:
@@ -232,7 +232,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_opportunities.description.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '16.Media-Communication-Cover.png',
-      career_domain_name: 'Media & Communication',
+      career_domain_name: 'رسانه و ارتباطات',
       isDraft: 0,
       tagline: 'Media-Communication',
       description:
@@ -247,7 +247,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '17.Applied-Arts-Cover.png',
-      career_domain_name: 'Applied Arts',
+      career_domain_name: 'هنر کاربردی',
       isDraft: 0,
       tagline: 'Applied-Arts',
       description:
@@ -262,7 +262,7 @@ export const careers_category = [
     _ignored: ['career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '18.Performing-Arts-Cover.png',
-      career_domain_name: 'Performing Arts',
+      career_domain_name: 'هنر نمایشی',
       isDraft: 0,
       tagline: 'Performing-Arts',
       description:
@@ -277,7 +277,7 @@ export const careers_category = [
     _ignored: ['career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '19.Cabin-Crew-Cover.png',
-      career_domain_name: 'Cabin Crew',
+      career_domain_name: 'مهمانداری',
       isDraft: 0,
       tagline: 'Cabin-Crew',
       description:
@@ -292,7 +292,7 @@ export const careers_category = [
     _ignored: ['career_details.career_entrance.key_elements.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '20.Hotel-Management-Cover.png',
-      career_domain_name: 'Hotel Management',
+      career_domain_name: 'مدیریت هتل',
       isDraft: 0,
       tagline: 'Hotel-Management',
       description:
@@ -307,7 +307,7 @@ export const careers_category = [
     _ignored: ['career_details.careers_path.Path 1.description.keyword', 'career_details.careers_path.Path 3.description.keyword', 'career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.careers_path.Path 2.description.keyword', 'career_details.careers_path.Path 4.description.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '21.Civil-Services-Cover.png',
-      career_domain_name: 'Civil Services',
+      career_domain_name: 'خدمات ملکی',
       isDraft: 0,
       tagline: 'Civil-Services',
       description:
@@ -322,7 +322,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.careers_path.path_6.description.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '22.Defense-Cover.png',
-      career_domain_name: 'Defense',
+      career_domain_name: 'دفاع',
       isDraft: 0,
       tagline: 'Defense',
       description:
@@ -337,7 +337,7 @@ export const careers_category = [
     _ignored: ['career_details.comparison_summary.keyword', 'career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.career_abroad_colleges.course.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '23.Marketing-Advertising-Cover.png',
-      career_domain_name: 'Marketing & Advertising',
+      career_domain_name: 'بازاریابی و تبلیغات',
       isDraft: 0,
       tagline: 'Marketing-Advertising',
       description:
@@ -352,7 +352,7 @@ export const careers_category = [
     _ignored: ['career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '24.Sales-Cover.png',
-      career_domain_name: 'Sales',
+      career_domain_name: 'فروش',
       isDraft: 0,
       tagline: 'Sales',
       description:
@@ -367,7 +367,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_abroad_colleges.course.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '25.Management-Cover.png',
-      career_domain_name: 'Management',
+      career_domain_name: 'مدیریت',
       isDraft: 0,
       tagline: 'Management',
       description:
@@ -382,7 +382,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '26.Entrepreneurship-Cover.png',
-      career_domain_name: 'Entrepreneurship',
+      career_domain_name: 'کارآفرینی',
       isDraft: 0,
       tagline: 'Entrepreneurship',
       description:
@@ -397,7 +397,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '27.Law-Cover.png',
-      career_domain_name: 'Law',
+      career_domain_name: 'حقوق',
       isDraft: 0,
       tagline: 'Law',
       description:
@@ -412,7 +412,7 @@ export const careers_category = [
     _ignored: ['career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '28.Finance-Banking-Cover.png',
-      career_domain_name: 'Finance & Banking',
+      career_domain_name: 'مالی بانکی',
       isDraft: 0,
       tagline: 'Finance-Banking',
       description:
@@ -427,7 +427,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.careers_path.Path_1.description.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '/29.Commerce-Accounts-Cover.png',
-      career_domain_name: 'Commerce & Accounts',
+      career_domain_name: 'تجارت و حسابداری',
       isDraft: 0,
       tagline: 'Commerce-Accounts',
       description:
@@ -442,7 +442,7 @@ export const careers_category = [
     _ignored: ['career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '30.Actuarial-Science-Cover.png',
-      career_domain_name: 'Actuarial Sciences',
+      career_domain_name: 'بیم‌سنجی',
       isDraft: 0,
       tagline: 'Actuarial-Sciences',
       description:
@@ -457,7 +457,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '31.Economics-Cover.png',
-      career_domain_name: 'Economics',
+      career_domain_name: 'اقتصاد',
       isDraft: 0,
       tagline: 'Economics',
       description:
@@ -472,7 +472,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_opportunities.description.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '32.Social-Science-Cover.png',
-      career_domain_name: 'Social Sciences & Humanities',
+      career_domain_name: 'علوم اجتماعی و علوم انسانی',
       isDraft: 0,
       tagline: 'Social-Sciences-Humanities',
       description:
@@ -487,7 +487,7 @@ export const careers_category = [
     _ignored: ['career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '33.Social-Services-Cover.png',
-      career_domain_name: 'Social Services',
+      career_domain_name: 'خدمات اجتماعی',
       isDraft: 0,
       tagline: 'Social-Services',
       description:
@@ -502,7 +502,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '34.Education-Training-Cover.png',
-      career_domain_name: 'Education & Training',
+      career_domain_name: 'آموزش',
       isDraft: 0,
       tagline: 'Education-Training',
       description:
@@ -517,7 +517,7 @@ export const careers_category = [
     _ignored: ['career_details.eligibility.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: '35.Distribution-Logistics-Cover.png',
-      career_domain_name: 'Distribution & Logistics',
+      career_domain_name: 'توزیع و حمل و نقل',
       isDraft: 0,
       tagline: 'Distribution-Logistics',
       description:
@@ -532,7 +532,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.career_abroad_colleges.course.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword'],
     _source: {
       image: 'Political_Science.png',
-      career_domain_name: 'Political Science',
+      career_domain_name: 'علوم سیاسی',
       isDraft: 0,
       tagline: 'Political-Science',
       description:
@@ -547,7 +547,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_abroad_colleges.course.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: 'Culinary_Arts.png',
-      career_domain_name: 'Culinary Arts',
+      career_domain_name: 'هنر آشپزی',
       isDraft: 0,
       tagline: 'Culinary-Arts',
       description:
@@ -562,7 +562,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.career_entrance.key_elements.keyword', 'career_details.career_abroad_colleges.course.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_opportunities.description.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: 'Psychology.png',
-      career_domain_name: 'Psychology',
+      career_domain_name: 'روانشناسی',
       isDraft: 0,
       tagline: 'Psychology',
       description:
@@ -577,7 +577,7 @@ export const careers_category = [
     _ignored: ['career_details.career_entrance.key_elements.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: 'Geography.png',
-      career_domain_name: 'Geography',
+      career_domain_name: 'جغرافی',
       isDraft: 0,
       tagline: 'Geography',
       description:
@@ -592,7 +592,7 @@ export const careers_category = [
     _ignored: ['career_details.eligibility.keyword'],
     _source: {
       image: 'Language.png',
-      career_domain_name: 'Language',
+      career_domain_name: 'زبان',
       isDraft: 0,
       tagline: 'Language',
       description:
@@ -606,7 +606,7 @@ export const careers_category = [
     _score: 1,
     _source: {
       image: 'Museology.png',
-      career_domain_name: 'Museology',
+      career_domain_name: 'موزه‌شناسی',
       isDraft: 0,
       tagline: 'Museology',
       description:
@@ -621,7 +621,7 @@ export const careers_category = [
     _ignored: ['career_details.career_abroad_colleges.course.keyword', 'career_details.eligibility.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: 'International_Relations.png',
-      career_domain_name: 'International Relations',
+      career_domain_name: 'روابط خارجی',
       isDraft: 0,
       tagline: 'International-Relations',
       description:
@@ -636,7 +636,7 @@ export const careers_category = [
     _ignored: ['career_details.career_entrance.key_elements.keyword', 'career_details.career_abroad_colleges.course.keyword', 'career_details.career_colleges.course.keyword', 'career_details.eligibility.keyword', 'career_details.pros_cons.pros.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: 'Film_Making.png',
-      career_domain_name: 'Film Making',
+      career_domain_name: 'فیلم‌سازی',
       isDraft: 0,
       tagline: 'Film-Making',
       description:
@@ -651,7 +651,7 @@ export const careers_category = [
     _ignored: ['career_details.pros_cons.cons.keyword', 'career_details.eligibility.keyword', 'career_details.career_job_description.job_description.keyword'],
     _source: {
       image: 'data-science-ai.png',
-      career_domain_name: 'Data Science & Artificial Intelligence',
+      career_domain_name: 'علوم داده و هوش‌ مصنوعی',
       isDraft: 0,
       tagline: 'Data-Science-Artificial-Intelligence',
       description:
